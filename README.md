@@ -1,2 +1,6 @@
 # Azure_pipeline_demo
 Azure_pipeline_demo
+This is azure_pipeline_demo_repo,
+Test_with_sample_code
+Commit
+push
